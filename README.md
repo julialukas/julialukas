@@ -14,22 +14,6 @@ Julia Lukas is a Sr Software Engineer, Entrepreneur, and a visionary who is look
 
 ### Skills
 
-Hi 👋 My name is Julia Lukas
-============================
-
-Sr Software Engineer
------------------
-
-Julia Lukas is a Sr Software Engineer, Entrepreneur, and a visionary who is looking to shake up the future of tech. Looking to embark on the world of Web 3.0. diving deep into software engineering as a developer, while researching blockchain technology and DAOS to figure out how I can use this revolutionary technology to change the world.
-
-* 🌍  I'm based in Washington DC
-* ✉️  You can contact me at [juliacodesjava@gmail.com](mailto:juliacodesjava@gmail.com)
-* 🧠  I'm learning Blockchain technology
-* 🤝  I'm open to collaborating on creative projects aimed to change the world for the better
-* ⚡  I'm secretly an alien.. but don't tell anyone
-
-### Skills
-
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
